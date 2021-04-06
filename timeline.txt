@@ -1,0 +1,10 @@
+## Start 11:07
+11:08 - Create Dockerfile
+11:15 - Copy html to Container image
+11:22 - Create shell Script
+11:36 - write github action script and test
+11:40 - check github-runner docs
+11:44 - commit and check
+11:50 - fix github action
+11:53 - finish
+---
